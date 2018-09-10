@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/doctor/Desktop/Virtual/TensorFlow/code/output"
+all_model_checkpoint_paths: "/home/doctor/Desktop/Virtual/TensorFlow/code/output"
